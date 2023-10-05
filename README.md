@@ -1,5 +1,6 @@
 # friday_virtual_assistant
 
+#you should create you own api key 
 A new Flutter project.
 
 ## Getting Started
