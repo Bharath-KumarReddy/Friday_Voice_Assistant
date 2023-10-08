@@ -1,1 +1,1 @@
-String apikey= "your-own-opi-key";
+String apikey= "your-own-api-key";
